@@ -5,7 +5,7 @@
 ## Hi, I'm Asal
 
 ### Bio
-I am 21 years old Mathematics and Computer Science student.<br />
+I am 21 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran.<br />
 I'm a professional designer with 3 years of experience.<br />
 Former Adobe Illustrator teacher.<br />
 
