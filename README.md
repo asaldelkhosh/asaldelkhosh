@@ -1,8 +1,8 @@
-## Hi, I'm Asal
-
 <p align="center">
   <img src="me.jpg" width="700" />
 </p>
+
+## Hi, I'm Asal
 
 ### Bio
 I am 21 years old Mathematics and Computer Science student.<br />
