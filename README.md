@@ -5,7 +5,7 @@
 ### Hi, my name is Asal
 
 I am 21 years old Mathematics and Computer Science student at Amirkabir University of Tehran, Iran.
-I work as a Data analyst and ML engineer.<br />
+I work as a Data scientist and ML engineer.<br />
 I'm a professional designer with 3 years of experience.<br />
 Former Adobe Illustrator teacher.<br />
 
@@ -30,7 +30,7 @@ with open("life.txt", "w") as me:
 - Deep Learning
 - Data Analysing
 - Artificial Intelligence
-- Data Mining
+- Data science
 
 <h2 align="center">
 Skills
