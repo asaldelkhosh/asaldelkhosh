@@ -51,6 +51,7 @@ Skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="35" alt="tensorflow" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="35" alt="numpy" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="35" alt="pandas" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" width="35" alt="scikit-learn" />
 
 </p>
 
