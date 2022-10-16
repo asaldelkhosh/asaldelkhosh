@@ -16,7 +16,7 @@ with open("life.txt", "w") as me:
     if line == "Name":
       print("Asal")
     elif line == "Love":
-      print("Panda")
+      print("Chaco")
     elif line == "Always":
       print("Work hard, do my best")
     elif line == "Dream":
