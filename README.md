@@ -94,12 +94,6 @@ if __name__ == "__main__":
 </p>
 
 <br />
-<br />
-
-| [![Asal's github stats](https://github-readme-stats.vercel.app/api?username=asaldelkhosh&theme=synthwave&include_all_commits=true&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asaldelkhosh&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) |
-|:----:|:-------:|
-
-<br />
 
 ### Let's listen together 🎧
 
