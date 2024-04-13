@@ -6,11 +6,10 @@
 
 ### :smile: Hi, my name is Asal
 
-I am 22 years old Mathematics and Computer Science student at **Amirkabir University of Tehran, Iran**.
+I am 23 years old Mathematics and Computer Science student at **Amirkabir University of Tehran, Iran**.
 I work as a Data Scientist and ML Engineer. As a Computer Science student I'm intrested in data science 
 and computational intelligence topics. But I started my career as a graphics designer :innocent: . 
-I'm a professional designer with 3 years of experience.
-I used to teach Adobe Illustrator when I was younger :sunglasses: .<br />
+I'm a professional designer with 3 years of experience. :sunglasses: .<br />
 
 <br />
 
